@@ -14,6 +14,18 @@ div{
     margin-right: 20px;
     margin-left: 10px;
 }
+.V{
+    display: inline;
+    padding: 5px;
+    font-size: 20px; 
+}
+.link{
+    text-decoration: none;
+    color:white;
+}
+.link:hover{
+    color: coral;
+}
 header{
     text-align: left;
     top : 0;
