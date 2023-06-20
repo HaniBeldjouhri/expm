@@ -1,2 +1,2 @@
 # expm
-### this will mak me cry
+### this will make me cry
