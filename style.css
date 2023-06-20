@@ -25,6 +25,7 @@ div{
 .link{
     text-decoration: none;
     color:white;
+    font-size: x-large;
 }
 .link:hover{
     color: coral;
